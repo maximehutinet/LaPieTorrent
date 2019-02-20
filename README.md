@@ -1,5 +1,5 @@
 # LaPieTorrent
--
+
 This project is a simplified version of a BitTorrent client. It offers the possibility to download files but not to share them. In order to increase the performance we've used threads.
 
 
