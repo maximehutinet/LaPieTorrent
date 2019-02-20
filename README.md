@@ -1,2 +1,3 @@
 # LaPieTorrent
-This projet is a simplified version of a BitTorrent client.
+-
+This projet il a simplified version of a BitTorrent client.
